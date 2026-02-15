@@ -1,0 +1,11 @@
+name: My First Action
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 23f2005050@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
